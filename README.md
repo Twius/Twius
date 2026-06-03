@@ -2,7 +2,7 @@
  
 Software developer focused on building practical tools and side projects.
  
-**Stack:** .NET · Node.js · React
+**Stack:** .NET · Kotlin · Node.js · React
  
 **What I build:**
 - 💰 Financial analysis & tracking applications
